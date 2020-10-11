@@ -1,0 +1,13 @@
+[debug] [2020-10-11T12:50:34.590Z] ----------------------------------------------------------------------
+[debug] [2020-10-11T12:50:34.592Z] Command:       /usr/local/Cellar/node/14.9.0/bin/node /usr/local/bin/firebase emulators:start
+[debug] [2020-10-11T12:50:34.593Z] CLI Version:   8.12.1
+[debug] [2020-10-11T12:50:34.593Z] Platform:      darwin
+[debug] [2020-10-11T12:50:34.593Z] Node Version:  v14.9.0
+[debug] [2020-10-11T12:50:34.594Z] Time:          Sun Oct 11 2020 13:50:34 GMT+0100 (British Summer Time)
+[debug] [2020-10-11T12:50:34.594Z] ----------------------------------------------------------------------
+[debug] [2020-10-11T12:50:34.595Z] 
+[debug] [2020-10-11T12:50:34.602Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-10-11T12:50:34.603Z] > authorizing via signed-in user
+[info] i  emulators: Starting emulators: firestore, database, hosting {"metadata":{"emulator":{"name":"hub"},"message":"Starting emulators: firestore, database, hosting"}}
+[debug] [2020-10-11T12:50:34.623Z] [hub] writing locator at /var/folders/0t/q38mbs_j30g8ftm5nqzf10vh0000gn/T/hub-superchat-841b2.json
+[info] i  firestore: downloading cloud-firestore-emulator-v1.11.7.jar... {"metadata":{"emulator":{"name":"firestore"},"message":"downloading cloud-firestore-emulator-v1.11.7.jar..."}}
